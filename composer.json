@@ -1,0 +1,15 @@
+{
+    "name": "mariuslab/semanticsudoku",
+    "description": "A semantic sudoku library for the practical man.",
+    "type": "library",
+    "require": {
+        "php": "^7.1"
+    },
+    "autoload": {
+        "psr-4": {"MariusLab\\": "src/"}
+    },
+    "license": "MIT",
+    "require-dev": {
+        "phpunit/phpunit": "^7.2"
+    }
+}
